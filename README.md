@@ -375,12 +375,12 @@ Aggregate - подсчитать данные в конкретных столб
 ![](assets/groupByRightClick.png)
 
 
-Интерфейс функции
+Интерфейс команды Group By с комментариями представлен на скриншоте ниже:
 
 ![](assets/groupBy2.png)
 
 
-**Добавление нового столбца**
+#### Добавление нового столбца в Power Query
 
 
 ![](assets/newColumn2.png)
@@ -542,17 +542,21 @@ Dax (Data Analysis Expressions) - это язык программировани
 В отличие от мер, вычисляемые столбцы могут использоваться для фильтрации и сортировки таблиц.
 Принадлежат конкретной таблице и их лучше указывать в формулах вместе с названием таблицы, даже если Power Pivot позволяет этого не делать.
 
-Подробнее про столбцы и меры читать здесь:
-[Calculated Columns and Measures in DAX - SQLBI](http://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/)
+Подробнее про столбцы и меры читать здесь:  
+
+- [Calculated Columns and Measures in DAX - SQLBI](http://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/)
 
 #### Контекст выполнения функции (Evaluation context)
 
 В Power Pivot существуют два контекста выполнения формулы, которые действуют одновременно:
+
 - Контекст фильтров (Filter context) 
 - Контекст строк (Row context)
-Это массивная и сложная тема. На момент написания методички автор так и не разобрался с темой до того уровня, чтобы рассказывать об этом окружающим. Потому рекомендую обратиться к достоверным источникам вроде Марко Руссо и Альберто Феррари [https://www.sqlbi.com/](https://www.sqlbi.com/).
 
-[Основные сведения о DAX в Power BI Desktop - Power BI | Microsoft Docs](https://docs.microsoft.com/ru-ru/power-bi/desktop-quickstart-learn-dax-basics#context)
+Это массивная и сложная тема. На момент написания методички автор так и не разобрался с темой до того уровня, чтобы рассказывать об этом окружающим. Потому рекомендую обратиться к достоверным источникам вроде:  
+
+- Марко Руссо и Альберто Феррари [https://www.sqlbi.com/](https://www.sqlbi.com/).
+- Справка Microsoft Power BI: [Основные сведения о DAX в Power BI Desktop](https://docs.microsoft.com/ru-ru/power-bi/desktop-quickstart-learn-dax-basics#context)
 
 #### Связь таблиц в модели данных 
 
