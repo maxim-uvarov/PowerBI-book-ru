@@ -41,7 +41,7 @@
 
 ![](assets/PowerQueryInExcel2013.png)  
 
-#### Что такое Power Query и как его найти в Excel 2016 ###
+#### Что такое Power Query и как его найти в Excel 2016 
 
 В Excel 2016 Power Query уже встроена. Найти ее можно на вкладке Data (Данные), блок "Get and Transform".
 
