@@ -29,19 +29,19 @@
 
 ## Редактор запросов (Query Editor, он же Power Query) ##
 
-#### Что такое Power Query и как его найти в Power BI
+#### Что такое Power Query и как его найти в Power BI  
 
 В Power BI Power Query встроенный модуль. В справке и интерфейсе этот модуль называется Query Editor или редактор запросов. Это основной путь загрузки данных в Power BI desktop. Как показано на скриншоте ниже все четыре выделенные кнопки относятся к редактору запросов Power Query.
 
 ![](assets/PowerQueryButtonsInPowerBI.png)
 
-#### Что такое Power Query и как его найти в Excel 2010-2013  ###
+#### Что такое Power Query и как его найти в Excel 2010-2013  
 
 Также, Power Query это надстройка над MS Excel 2010 - 2013. Она устанавливается дополнительно. Скачать надстройку можно по [ссылке](https://www.microsoft.com/en-us/download/details.aspx?id=39379). На панели Ribbon в Excel 2010 и 2013 Power Query посвящена отдельная вкладка.
 
 ![](assets/PowerQueryInExcel2013.png)  
 
-#### Что такое Power Query и как его найти в Excel 2016 
+#### Что такое Power Query и как его найти в Excel 2016  
 
 В Excel 2016 Power Query уже встроена. Найти ее можно на вкладке Data (Данные), блок "Get and Transform".
 
