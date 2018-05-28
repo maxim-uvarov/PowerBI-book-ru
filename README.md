@@ -56,6 +56,7 @@
 - [Визуализации в Power BI](#Визуализации-в-power-bi)
 	- [Срезы в Power BI - Слайсеры \(Slicers\)](#Срезы-в-power-bi---Слайсеры-slicers)
 		- [Срезы с относительными датами \(Relative slicers\)](#Срезы-с-относительными-датами-relative-slicers)
+- [Вместо заключения](#Вместо-заключения)
 
 <!-- /MarkdownTOC -->
 
@@ -752,3 +753,9 @@ CR (Коэффициент конверсии фактический)
 
 - https://docs.microsoft.com/ru-ru/power-bi/desktop-slicer-filter-date-range
 
+
+## Вместо заключения ##
+
+Данное методическое пособие было выложен в открытый доступ 21.05.2018. С тех пор каждый желающий способен внести в него правки или дополнить его собственной актуальной информацией. Сделать это можно по адресу: https://github.com/power-bi/PowerBI-book-ru
+
+[![](assets/GithubPowerBiBook.png)](https://github.com/power-bi/PowerBI-book-ru)
