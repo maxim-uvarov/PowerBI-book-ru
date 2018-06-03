@@ -57,6 +57,8 @@
 - [Визуализации в Power BI](#Визуализации-в-power-bi)
 	- [Срезы в Power BI - Слайсеры \(Slicers\)](#Срезы-в-power-bi---Слайсеры-slicers)
 		- [Срезы с относительными датами \(Relative slicers\)](#Срезы-с-относительными-датами-relative-slicers)
+- [Настройки Power BI](#Настройки-power-bi)
+	- [Фоновые данные - разрешить скачивание в фоне \(Background data - allow data preview\)](#Фоновые-данные---разрешить-скачивание-в-фоне-background-data---allow-data-preview)
 - [Вместо заключения](#Вместо-заключения)
 
 <!-- /MarkdownTOC -->
@@ -761,6 +763,19 @@ CR (Коэффициент конверсии фактический)
 
 - https://docs.microsoft.com/ru-ru/power-bi/desktop-slicer-filter-date-range
 
+## Настройки Power BI ##
+
+#### Фоновые данные - разрешить скачивание в фоне (Background data - allow data preview)
+
+Загрузку данных в фоне часто рекомендуют отключить, во избежание проблем с производительностью. Ссылки по теме:  
+
+1. Параметр Allow Data Preview To Download In The Background в Power Query и Power BI - статья Криса Вебба: [перевод 🇷🇺](https://needfordata.ru/blog/%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80-allow-data-preview-to-download-in-the-background-%D0%B2-power-query-%D0%B8-power-bi), [оригинал 🇺🇲](https://blog.crossjoin.co.uk/2016/12/05/power-query-power-bi-and-the-allow-data-preview-to-download-in-the-background-option/).
+2. Ветка, в предложения выключить эту настройку по умолчанию [uservoice](https://excel.uservoice.com/forums/304921-excel-for-windows-desktop-application/suggestions/20636248-change-default-settings-for-data-preview-in-backgr).
+
+
+![](assets/PowerBIBackgroundData.png)
+
+![](assets/PowerBIBackgroundDataRu.png)
 
 ## Вместо заключения ##
 
