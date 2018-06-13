@@ -113,7 +113,7 @@
 
 ![](assets/PowerQueryInExcel2013.png)  
 
-#### Что такое Power Query и как его найти в Excel 2016  
+#### Что такое Power Query и как его найти в Excel 2016  
 
 В Excel 2016 Power Query уже встроена. Найти ее можно на вкладке Data (Данные), блок "Get and Transform".
 
@@ -751,6 +751,7 @@ CR (Коэффициент конверсии фактический)
 - [Клевый курс на udemy про Power Pivot](https://www.udemy.com/power-pivot-workshop-beginner/learn/v4/overview)
 - [Книга: The Definitive Guide to DAX: Business intelligence with Microsoft Excel, SQL Server Analysis Services, and Power BI (Business Skills) 1st Edition](https://www.amazon.com/Definitive-Guide-DAX-intelligence-Microsoft/dp/073569835X/ref=asap_bc?ie=UTF8)
 - [Daxpatterns.com](http://www.daxpatterns.com/)
+- [Канал Curbal на youtube с подробными обучающими видео DAX Fridays](https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw)
 
 
 ## Визуализации в Power BI ##
