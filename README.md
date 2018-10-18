@@ -518,6 +518,8 @@ if [столбец1] 0 then [столбец2] else [столбец3]
 
 Однако, если мы работаем с API, то нам неминуемо нужно отправлять данные в интернет. Соответственно, чтобы не иметь проблем в этом процессе проще всего в настройках Power BI выключить Formula.Firewall. Это делается в разделе Privacy. Нужно выбрать 3-й пункт - "ignore privacy level settings"
 
+![ignore privacy level settings](assets/IgnorePrivacyLevels.png)
+
 ## Power Pivot
 
 ### Что такое Power Pivot в Excel
