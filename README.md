@@ -722,6 +722,10 @@ CR (Коэффициент конверсии фактический)
 
 - <https://docs.microsoft.com/ru-ru/power-bi/desktop-slicer-filter-date-range>
 
+### Настройка взаимодействия визуализаций (визуалов)
+
+- [Справка](https://docs.microsoft.com/ru-ru/power-bi/service-reports-visual-interactions)
+
 ## Настройки Power BI
 
 ### Фоновые данные - разрешить скачивание в фоне (Background data - allow data preview)
