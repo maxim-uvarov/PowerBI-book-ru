@@ -1,3 +1,12 @@
+---
+layout: Page
+title: 3 Reasons to Switch from WordPress to Jekyll
+description: "Неофициальное, открытое методическое пособие к программе Power BI и надстройкам над Excel Power Query и Power Pivot."
+modified: 2019-04-29
+image: assests/og20190429.png
+---
+
+
 <!-- markdownlint-disable MD045 MD013 MD040 -->
 
 # Неофициальное, открытое методическое пособие к программе Power BI и надстройкам над Excel Power Query и Power Pivot
