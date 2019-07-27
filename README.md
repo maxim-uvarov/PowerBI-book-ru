@@ -1,8 +1,3 @@
----
-image: assests/og20190429.png
----
-
-
 <!-- markdownlint-disable MD045 MD013 MD040 -->
 
 # Неофициальное, открытое методическое пособие к программе Power BI и надстройкам над Excel Power Query и Power Pivot
