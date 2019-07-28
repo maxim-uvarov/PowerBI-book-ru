@@ -43,6 +43,7 @@
     - [Count rows - Подсчитать количество строчек в текущей таблице](#count-rows---подсчитать-количество-строчек-в-текущей-таблице)
     - [Извлечение шагов в отдельный запрос](#извлечение-шагов-в-отдельный-запрос)
     - [Функция Сохранить строки \(Keep Top Rows\)](#функция-сохранить-строки-keep-top-rows)
+    - [Функция Сохранить ошибки \(Keer Errors\)](#функция-сохранить-ошибки-keer-errors)
     - [Права доступа, Formula.Firewall](#права-доступа-formulafirewall)
 - [Power Pivot](#power-pivot)
     - [Что такое Power Pivot в Excel](#что-такое-power-pivot-в-excel)
@@ -510,6 +511,10 @@ Aggregate - подсчитать данные в конкретных столб
 ### Функция Сохранить строки (Keep Top Rows)
 
 ![](assets/KeepToRows.png)
+
+### Функция Сохранить ошибки (Keer Errors)
+
+![](assets/KeepErrors.png)
 
 ### Права доступа, Formula.Firewall
 
