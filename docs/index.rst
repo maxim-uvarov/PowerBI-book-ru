@@ -7,7 +7,7 @@ PowerBIBook.ru
 ============================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Содержание:
    :glob: 
 
