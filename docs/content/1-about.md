@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD045 MD013 MD040 -->
-
 # О проекте PowerBIBook.ru
 
 ## Предисловие
