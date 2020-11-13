@@ -448,6 +448,3 @@ Aggregate - подсчитать данные в конкретных столб
 ## Символы разрыва строки
 
 При помощи операции найти или для разделения ячейки на отдельные строчки можно воспользоваться символами `#(cr)#(lf)` либо воспользоваться функцией `Lines.FromText`
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gmB_EkrvY0c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
