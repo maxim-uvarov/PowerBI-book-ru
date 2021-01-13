@@ -2,9 +2,9 @@
 
 ## Power Query в Power BI
 
-В программе Power BI Desktop Power Query встроенный модуль. В справке и интерфейсе этот модуль называется Query Editor или редактор запросов. Power Query это основной инструмент данных в Power BI desktop. Как показано на скриншоте ниже все четыре выделенные кнопки относятся к редактору запросов Power Query.
+В программе Power BI Desktop Power Query встроенный модуль. В справке и интерфейсе этот модуль называется Редактор Запросов или Query Editor . Power Query это основной инструмент для получения данных в модель данных Power BI desktop. Как показано на скриншоте ниже все выделенные кнопки относятся к редактору запросов Power Query.
 
-![](assets/PowerQueryButtonsInPowerBI.png)
+![](assets/PowerQueryButtonsInPowerBI2021-01-13_15-05-50.png)
 
 ## Power Query в Excel 2010, 2013
 
